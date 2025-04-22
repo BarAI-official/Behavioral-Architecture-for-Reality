@@ -7,7 +7,7 @@
 ## 🚀 What Is BarAI?
 BarAI is a next-generation artificial intelligence ecosystem focused on:
 
-- 🧠 **Emotional Intelligence AI (EIAI)** – AI that senses tone, emotional patterns, and interaction context
+- 🧠 **Emotional Intelligence AI** – AI that senses tone, emotional patterns, and interaction context
 - 🔁 **Decision Simulation Engine** – Predict how choices play out before taking action
 - 👤 **Digital Twin Modeling** – Real-time behavioral mirror for self-awareness and growth
 - 🤝 **Collective Intelligence Layer** – Real-time analysis of group dynamics and emotional flow
