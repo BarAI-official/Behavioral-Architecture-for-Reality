@@ -121,9 +121,9 @@ BarAI is poised to redefine human-AI interactions by blending advanced behaviora
 
 ## Official Resources
 
-- Website: [https://barai.pro](https://barai.pro)
-- Twitter: [https://x.com/\_BarAI\_official](https://x.com/_BarAI_official)
-- Telegram: [https://t.me/Bar\_ai\_official](https://t.me/Bar_ai_official)
+- Website: [https://barai.pro](www.Barai.pro)
+- Twitter: [https://x.com/\_BarAI\_official](@_BarAI_official)
+- Telegram: [https://t.me/Bar\_ai\_official](@Bar_ai_official)
 - Github: [https://github.com/BarAI-official/Behavioral-Architecture-for-Reality](https://github.com/BarAI-official/Behavioral-Architecture-for-Reality)
 ---
 
