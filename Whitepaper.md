@@ -83,7 +83,8 @@ The \$BarAI token is central to ecosystem operation, providing essential functio
 | Category                 | Allocation (%) | Tokens     | Vesting Schedule                      |
 | ------------------------ | -------------- | ---------- | ------------------------------------- |
 | Liquidity                | 30%            | 30,000,000 | Burnt                                 |
-| Community & Airdrops     | 15%            | 15,000,000 | Monthly releases over 3 years         |
+| Public                   | 10%            | 10,000,000 | Daily releases over 1 month           |
+| Airdrops                 | 5%             | 5,000,000  | Monthly releases over 3 years         |
 | Staking Rewards          | 20%            | 20,000,000 | Linear vesting over 4 years           |
 | Development & Ecosystem  | 15%            | 15,000,000 | 10% initial, rest vested over 3 years |
 | Marketing & Partnerships | 10%            | 10,000,000 | Quarterly vesting over 2 years        |
