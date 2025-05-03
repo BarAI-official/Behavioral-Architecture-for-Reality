@@ -2,7 +2,7 @@
 
 ## Behavioral Architecture for Reality – Artificial Intelligence (BarAI)
 
-### Version: 1.3
+### Version: 1.4
 
 ### Date: April 2025
 
@@ -83,11 +83,11 @@ The \$BarAI token is central to ecosystem operation, providing essential functio
 | Category                 | Allocation (%) | Tokens     | Vesting Schedule                      |
 | ------------------------ | -------------- | ---------- | ------------------------------------- |
 | Liquidity                | 30%            | 30,000,000 | Burnt                                 |
-| Public                   | 10%            | 10,000,000 | Daily releases over 1 month           |
-| Airdrops                 | 5%             | 5,000,000  | Monthly releases over 3 years         |
-| Staking Rewards          | 20%            | 20,000,000 | Linear vesting over 4 years           |
-| Development & Ecosystem  | 15%            | 15,000,000 | 10% initial, rest vested over 3 years |
-| Marketing & Partnerships | 10%            | 10,000,000 | Quarterly vesting over 2 years        |
+| Public                   | 10%            | 10,000,000 | Daily releases over 1 week            |
+| Airdrops                 | 5%             | 5,000,000  | For social participants               |
+| Staking Rewards          | 20%            | 20,000,000 | Available at launch for hodlers       |
+| Development & Ecosystem  | 15%            | 15,000,000 | Rest vested over 2 years              |
+| Marketing & Partnerships | 10%            | 10,000,000 | Monthly vesting over 2 years          |
 | Team & Advisors          | 10%            | 10,000,000 | Monthly releases over 3 years         |
 
 ---
